@@ -4,21 +4,21 @@
 
   <script language="JavaScript" src="ani.js"></script>
   <script language="JavaScript">
-    dna_decrypt_title()
+    dna_decrypt_title();
   </script>
 
 == Example 2 - Binary Decrypting/Decoding/Deciphering
 
   <script language="JavaScript" src="ani.js"></script>
   <script language="JavaScript">
-    binary_decrypt_title()
+    binary_decrypt_title();
   </script>
 
 == Example 3 - Custom Decrypting/Decoding/Deciphering
 
   <script language="JavaScript" src="ani.js"></script>
   <script language="JavaScript">
-    decrypt_title("XO", 5, 100)
+    decrypt_title("XO", 5, 100);
   </script>
 
 
