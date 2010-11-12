@@ -21,6 +21,4 @@
     decrypt_title("XO", 5, 100)
   </script>
 
-== Credits
-Tatsuya Mori <valdzone@gmail.com> (Original C implementation: http://vald.x0.com/sb/)
 
